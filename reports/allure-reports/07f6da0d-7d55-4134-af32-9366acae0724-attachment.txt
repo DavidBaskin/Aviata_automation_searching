@@ -1,0 +1,7 @@
+Assertion error occured
+assert 'Авиата - пок...илетов онлайн' == 'Авиата - пок...билетов онлай'
+  - Авиата - покупка авиабилетов онлайн
+  ?                                   -
+  + Авиата - покупка авиабилетов онлай
+I`m an inside finally block
+Test completed
